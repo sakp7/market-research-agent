@@ -7,7 +7,7 @@ Streamlit cloud for deployment
 
 Langchain-groq for framework
 
-llama3 LLM model
+llama3 - LLM model
 
 Serper- Advanced Web scrapping tool
 
