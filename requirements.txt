@@ -1,6 +1,5 @@
 streamlit
 langchain-groq
-openai
 serper
 pandas
 altair==5.0.1
