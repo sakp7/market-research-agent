@@ -2,10 +2,15 @@ AI Market research Multi-Agent
 Techstack - Langchain-groq, llama3.0, streamlit, serper.
 
 Streamlit for UI
+
 Streamlit cloud for deployment
+
 Langchain-groq for framework
+
 llama3 LLM model
+
 Serper- Advanced Web scrapping tool
+
 Project Deployed link - https://market-research-ai-agent.streamlit.app/
 
 
