@@ -1,5 +1,5 @@
+altair==5.0.1
 streamlit
 langchain-groq
 serper
 pandas
-altair==5.0.1
